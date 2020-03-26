@@ -1,12 +1,12 @@
----
-typora-root-url: ..\images
----
+
 
 # 软件控制台 280i-Login
 
 我们先来看看软件主界面截图：
 
-![](/../280i_Login/README/280i_Login.png)
+![](README/280i_Login-1585183964739.png)
+
+最新版本下载地址：[https://www.280i.com/ann/8048.html](https://www.280i.com/ann/8048.html)
 
 ###### 界面简易介绍：
 
