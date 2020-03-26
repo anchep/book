@@ -1,20 +1,20 @@
-TListBox 列表
+# TListBox 列表
 
 列表主要逐行显示，可以选择
 
-1. 添加控件
+1. ##### 添加控件
 
    ![](16_TListBox/59.png)
 
-2. 设置内容
+2. ##### 设置内容
 
    ![](16_TListBox/60.png)
 
-3. 运行效果
+3. ##### 运行效果
 
    ![](16_TListBox/61.png)
 
-4. 示例代码
+4. ##### 示例代码
 
    1. ```pascal
       procedure TForm1.Button1Click(Sender: TObject);
@@ -32,4 +32,4 @@ TListBox 列表
 
       
 
-5. 补充
+5. ##### 补充

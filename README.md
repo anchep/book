@@ -27,6 +27,12 @@ CodeTyphon基础平台：FreePascal -> Lazarus -> CodeTyphon（CodeTyphon可以�
 
 [**CodeTyphon入门**](CodeTyphon/README.md)
 
+[**Standard控件**](CodeTyphon/7_TMainMenu.md)
+
+
+
+
+
 ------
 
 至于详细的代码学习，请查看老侯的 跟着老侯学编程。
