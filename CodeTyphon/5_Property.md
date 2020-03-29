@@ -29,6 +29,7 @@
 | DragKind             |              |      |            |           |                              |
 | DragMode             |              |      |            |           |                              |
 | Enabled              | 可用 | True/False |            |           | 控件或窗体是否可用，不可用为灰色 |
+| FocusControl | 焦点控件 |  | TLabel | | Label中包含 &M，就代表按下Alt+M后，FocusControl中选择的控件即获得焦点 |
 | Font                 | 字体 |      |            |           |                              |
 | FormStyle            | 窗体样式 |      |            |           | 设置窗体类型以及最前显示 |
 | Height               | 高度 |      |            |           | 窗体或控件的高度 |

@@ -13,7 +13,14 @@ CodeTyphon基础平台：FreePascal -> Lazarus -> CodeTyphon（CodeTyphon可以�
 
 本册book地址：[https://www.280i.com/book/](https://www.280i.com/book/)
 
-本册对应视频讲解地址：尚在录制中
+本册对应视频讲解地址：
+
+- B站：[https://space.bilibili.com/383418153/](https://space.bilibili.com/383418153/)
+
+- 西瓜视频：[https://www.ixigua.com/pseries/6809266274443461132/](https://www.ixigua.com/pseries/6809266274443461132/)
+
+- 交流QQ群：148178038
+
 
 视频相对于图片介绍更加完整，包括使用中的一些小细节，这样更适合初次接触软件开发的人群。
 
@@ -28,8 +35,6 @@ CodeTyphon基础平台：FreePascal -> Lazarus -> CodeTyphon（CodeTyphon可以�
 [**CodeTyphon入门**](CodeTyphon/README.md)
 
 [**Standard控件**](CodeTyphon/7_TMainMenu.md)
-
-
 
 
 
