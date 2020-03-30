@@ -25,4 +25,7 @@
 
       
 
-5. 
+5. 补充
+
+   1. AllowGrayed：反向，就是选中为False，不选中为True
+
