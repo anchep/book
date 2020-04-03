@@ -8,7 +8,7 @@
     "root": ".",
     "links": {
         "sidebar": {
-            "返回网站": "https://www.280i.com"
+            "返回网站": "../"
         }
     },
     "plugins": [
