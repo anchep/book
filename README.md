@@ -11,7 +11,7 @@ CodeTyphon基础平台：FreePascal -> Lazarus -> CodeTyphon（CodeTyphon可以�
 
 **我们这里讲解主要的系统控件和常用的使用方法，以及部分简单代码书写**
 
-本册book地址：[https://www.280i.com/book/](https://www.280i.com/book/)
+本册book地址：[http://freepascal.net/book/](http://freepascal.net/book/)
 
 本册对应视频讲解地址：
 

@@ -40,7 +40,7 @@ begin
 end;
 ```
 
-
+https://www.pilotlogic.com/sitejoom/index.php/wiki/104-wiki/pascal-basics/chapter-1/117-pascal-constants.html
 
 #### 变量：自定义可变的部分。
 
@@ -104,5 +104,5 @@ end.
 
 
 
-
+https://www.pilotlogic.com/sitejoom/index.php/wiki/104-wiki/pascal-basics/chapter-1/116-pascal-variable-types.html
 

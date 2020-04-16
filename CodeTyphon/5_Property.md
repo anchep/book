@@ -6,6 +6,7 @@
 | -------------------- | ------------ | ------ | ---------- | --------- | ---------------------------- |
 | Action               | 动作         |      | ActionList |           | * 选择ActionList中的动作执行 |
 | ActiveControl        | 激活控件     |      |            |           | 默认激活的控件               |
+| AntialiasingMode | 抗锯齿 | | | |  |
 | align                | 对齐方式     |      |            |           | Form中无效，控件中常用属性   |
 | AllowDropFiles       | 允许拖放文件 | True/False |            | DropFiles |                              |
 | AlphaBlend           | Alpha透明 | True/False |            |           | 打开Alpha透明 |
@@ -18,6 +19,7 @@
 | BorderStyle          | 边框形状(样式) |  |            |           |                              |
 | BorderWidth          | 边框宽度 |      |            |           |                              |
 | Caption              | 标题/文字内容 |      |            |           |                              |
+| Center | 居中 | | | | |
 | ChildSizing          |              |      |            |           |                              |
 | Color                | 颜色 |      |            |           | 一般为窗体或者控件的可见颜色 |
 | Constraints          | 限制条件 |      |            |           |                              |
